@@ -107,3 +107,40 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.post-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .post-card {
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .post-card:hover {
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
+  
+  .post-link {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .post-date {
+    font-size: 0.9em;
+    color: #999;
+  }
+  
+  .post-excerpt {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+  }
+  
