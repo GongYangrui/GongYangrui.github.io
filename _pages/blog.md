@@ -1,5 +1,5 @@
 ---
-permalink: /blog
+permalink: /blog/
 author_profile: true
 layout: default
 ---
