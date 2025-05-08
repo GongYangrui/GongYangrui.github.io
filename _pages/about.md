@@ -68,3 +68,4 @@ Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
 # 💻 Internships
 - *2023.09 - 2024.06*, [Xin Yang](https://sites.google.com/view/xinyang/home)'s lab, Wuhan, China.
 - *2024.06 - 2024.08*, [Huaxiu Yao](https://www.huaxiuyao.io/)'s lab. (Remote) Thanks for [Peng Xia](https://richard-peng-xia.github.io/)'s guidance.
+- *2025.03 - present*, RA with [Zhihang Ren](https://albuspeter.github.io/).
