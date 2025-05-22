@@ -127,20 +127,26 @@ h1:before, .anchor:before {
   }
   
   .post-link {
+    display: block;
     font-size: 1.6em;
     font-weight: bold;
     color: #333;
     text-decoration: none;
+    margin-bottom: 0.25em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
-  
+
   .post-date {
+    display: block;
     font-size: 0.9em;
     color: #999;
+    margin-bottom: 10px;
   }
   
   .post-excerpt {
     margin-top: 10px;
-    font-size: 1em;
-    color: #555;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
   
