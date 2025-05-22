@@ -38,6 +38,7 @@ rclone config
 然后在这一步![授权](/assets/images/blog/5-22-5.png)就需要借助本地的电脑进行Google Drive授权了，在本地下载好rclone（如果是win，可以在[这里](https://rclone.org/downloads/)选择合适的版本进行下载）之后，复制那段`rclone authorize ...`，本地的电脑就会弹出来浏览器，接着授权就可以了。
 
 ！！需要注意的是，如果你在科学上网，记得设置好代理端口，比如我在过程中遇到一个问题：当我授权完成之后，没有弹出来对应的token，报错原因是` NOTICE: Fatal error: failed to get token: Post "https://oauth2.googleapis.com/token": proxyconnect tcp: dial tcp 127.0.0.1:7890: connectex: No connection could be made because the target machine actively refused it.`这里就需要将代理的端口设置为7890，完成之后重新开始代理，重复前面的授权步骤，就可以在终端中得到token，完整的复制到服务器的终端中的config token中，就算**完成了配置**。
+
 ![完成配置](/assets/images/blog/5-22-6.png)
 
 接下来就可以通过：
