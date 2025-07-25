@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a student in Huazhong <a href='https://english.hust.edu.cn/'>University of Science and Technology.</a>. I'm currently working as a Research Intern at <a href='https://yuzhimanhua.github.io/sky-lab.github.io/'>SKY Lab</a>, under the guidance of Prof. <a href='https://yuzhimanhua.github.io/'>Yu Zhang</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
+I am a student in Huazhong <a href='https://english.hust.edu.cn/'>University of Science and Technology</a>. I'm currently working as a Research Intern at <a href='https://yuzhimanhua.github.io/sky-lab.github.io/'>SKY Lab</a>, under the guidance of Prof. <a href='https://yuzhimanhua.github.io/'>Yu Zhang</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
 
 Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 
