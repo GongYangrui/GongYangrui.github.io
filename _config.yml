@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yangrui Gong"
-description              : "Visiting student in UW-Madison "
+description              : "Major in Electronic and Information Engineering"
 repository               : "GongYangrui/GongYangrui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Yangrui Gong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Huazhong University of Science and Technology"
-  location         : "Madison, Wisconsin"
+  location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "ygong69[AT]wisc[DOT]edu"
+  email            : "yangruigong0[AT]gmail[DOT]com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

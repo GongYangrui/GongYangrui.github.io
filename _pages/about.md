@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a student in Huazhong <a href='https://english.hust.edu.cn/'>University of Science and Technology.</a> I am now exchanging in <a href='https://www.wisc.edu/'>UW-Madison</a>.I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
-
-My research focus on Medical Image Processing and Large Language Model for biomedical. For more publication information, please visit my <a href='https://openreview.net/profile?id=~Yangrui_Gong1'>openreview profile</a>.
+I am a student in Huazhong <a href='https://english.hust.edu.cn/'>University of Science and Technology.</a>. I'm currently working as a Research Intern at <a href=='https://yuzhimanhua.github.io/sky-lab.github.io/'>SKY Lab</a>, under the guidance of Prof. <a href='https://yuzhimanhua.github.io/'>Yu Zhang</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
 
 Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 
@@ -69,3 +67,4 @@ Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
 - *2023.09 - 2024.06*, [Xin Yang](https://sites.google.com/view/xinyang/home)'s lab, Wuhan, China.
 - *2024.06 - 2024.08*, [Huaxiu Yao](https://www.huaxiuyao.io/)'s lab. (Remote) Thanks for [Peng Xia](https://richard-peng-xia.github.io/)'s guidance.
 - *2025.03 - present*, RA with [Zhihang Ren](https://albuspeter.github.io/).
+- *2025.05 - present*, Research Intern in [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io/), under the guidance of Prof. [Yu Zhang](https://yuzhimanhua.github.io/).
