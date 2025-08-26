@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a student in Huazhong <a href='https://english.hust.edu.cn/'>University of Science and Technology</a>. I'm currently working as a Research Intern at <a href='https://yuzhimanhua.github.io/sky-lab.github.io/'>SKY Lab</a>, under the guidance of Prof. <a href='https://yuzhimanhua.github.io/'>Yu Zhang</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
+I am a student in <a href='https://english.hust.edu.cn/'>Huazhong University of Science and Technology</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
 
 Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 
@@ -51,11 +51,11 @@ Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
 - Peng Xia, Ze Chen, Juanxi Tian, **Yangrui Gong**, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao, [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://cares-ai.github.io/), in Proceeding of the Thirty-Eighth Conference on Neural Information Processing Systems Track on  Datasets & Benchmarks (**NeurIPS 2024**), Vancouver, Canada, Dec 2024.
 
 # 🎖 Honors and Awards
-- *2023.12* **Won the championship** in The 1st Hubei Provincial Rugby Championship. 
 - *2024.12* **Won the championship** in The 2nd Hubei Provincial Rugby Championship. 
+- *2023.12* **Won the championship** in The 1st Hubei Provincial Rugby Championship. 
 
 # 📖 Educations
-- *2025.01 - 2025.05 (expected)*, University of Wisconsin–Madison (Madison, WI, USA), Visiting Student. 
+- *2025.01 - 2025.05*, University of Wisconsin–Madison (Madison, WI, USA), Visiting Student. 
 - *2022.09 - 2026.06 (expected)*, Huazhong University of Science and Technology, B.E. in Electronic and Information Engineering. 
 - *2019.09 - 2022.06*, [The No.1 Middle School Affiliated To Central China Normal University](https://en.wikipedia.org/wiki/No.1_Middle_School_Affiliated_to_Central_China_Normal_University). 
 
@@ -64,7 +64,7 @@ Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.09 - 2024.06*, [Xin Yang](https://sites.google.com/view/xinyang/home)'s lab, Wuhan, China.
-- *2024.06 - 2024.08*, [Huaxiu Yao](https://www.huaxiuyao.io/)'s lab. (Remote) Thanks for [Peng Xia](https://richard-peng-xia.github.io/)'s guidance.
 - *2025.03 - present*, RA with [Zhihang Ren](https://albuspeter.github.io/).
-- *2025.05 - present*, Research Intern in [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io/), under the guidance of Prof. [Yu Zhang](https://yuzhimanhua.github.io/).
+- *2025.01 - 2025.05*, Research Intern in [SKY Lab](https://yuzhimanhua.github.io/sky-lab.github.io/), under the guidance of Prof. [Yu Zhang](https://yuzhimanhua.github.io/).
+- *2024.06 - 2024.08*, [Huaxiu Yao](https://www.huaxiuyao.io/)'s lab. (Remote) Thanks for [Peng Xia](https://richard-peng-xia.github.io/)'s guidance.
+- *2023.09 - 2024.06*, [Xin Yang](https://sites.google.com/view/xinyang/home)'s lab, Wuhan, China.
