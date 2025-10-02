@@ -41,51 +41,63 @@
 @import "print";
 
 .paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;   // 保证图片和文字垂直居中对齐
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 2em 0;
+
+  .paper-box-image {
+    justify-content: center;
     display: flex;
-    justify-content: left;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    min-width: 200px;
+    max-width: 40%;
+    order: 1;
 
-    .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+    img {
+      max-width: 400px;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
     }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
+  }
+
+  .paper-box-text {
+    display: flex;              // 让里面的元素也用 flex
+    flex-direction: column;     // 垂直排列
+    justify-content: center;    // 垂直居中对齐
+    padding-left: 2em;
+    max-width: 60%;
+    order: 2;
+
+    text-align: left;           // 保持左对齐
+  }
+  .paper-box-text .paper-title {
+    font-size: 1.2em;     // 稍大于正文
+    font-weight: 600;     // 半粗体
+    line-height: 1.4;
+    margin-bottom: 0.3em;
+  }
+  .paper-box-text .paper-authors {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 0.2em;
+  }
+  .paper-box-text .paper-links {
+    font-size: 0.95em;
+    margin-top: 0.3em;
+  
+    a {
+      text-decoration: none;
+      font-weight: 500;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
+  
+    a:hover {
+      text-decoration: underline;
     }
-
-
+  }
 }
+
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -108,45 +120,42 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.post-list {
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-  }
-  
-  .post-card {
-    padding: 20px;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    transition: box-shadow 0.3s ease;
-  }
-  
-  .post-card:hover {
-    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-  }
-  
-  .post-link {
-    display: block;
-    font-size: 1.6em;
-    font-weight: bold;
-    color: #333;
-    text-decoration: none;
-    margin-bottom: 0.25em;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+.paperwithoutimage {
+  padding: 0.8em 0;
+
+  .paper-title {
+    font-size: 1.2em;     // 稍大于正文
+    font-weight: 600;     // 半粗体
+    line-height: 1.4;
+    margin-bottom: 0.3em;
   }
 
-  .post-date {
-    display: block;
-    font-size: 0.9em;
-    color: #999;
-    margin-bottom: 10px;
+  .paper-authors {
+    font-size: 1em;
+    line-height: 1.5;
+    margin-bottom: 0.2em;
   }
-  
-  .post-excerpt {
-    margin-top: 10px;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+
+  .paper-venue {
+    font-size: 0.95em;
+    font-style: italic;
+    color: #555;          // 比正文稍浅，突出“次要”
+    margin-bottom: 0.4em;
   }
+
+  .paper-links {
+    font-size: 0.95em;
+    margin-top: 0.3em;
+
+    a {
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    a:hover {
+      text-decoration: underline; // hover 时仅显示下划线
+    }
+  }
+}
+
   

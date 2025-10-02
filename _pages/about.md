@@ -24,7 +24,6 @@ Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Landed in Madison and embarked on a semester-long exchange program.
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -39,27 +38,67 @@ Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- Synergizing Embedding and Generative Language Models for Zero-Shot Multi-Label Text Classification
-  **Yangrui Gong**, Hangxiao Zhu<sup>*</sup>, Yuyang Bai<sup>*</sup>, Yu Zhang
-  **WSDM 2026** (Short Paper)
 
-
-- RAPS+: Improved Conformal Prediction with Empirical Distribution
-  **Yangrui Gong**, Zhihang Ren, Yunhui Guo, David Whitney
-  **AAAI 2026** (Under Review)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/publication of MSA.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Masked Snake Attention for Fundus Image Restoration with Vessel Preservation](https://dl.acm.org/doi/10.1145/3664647.3680722)
-
-Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
-</div>
+<div class="paperwithoutimage">
+  <div class="paper-title">
+    Synergizing Embedding and Generative Language Models for Zero-Shot Multi-Label Text Classification
+  </div>
+  <div class="paper-authors">
+  <b>Yangrui Gong</b>, Hangxiao Zhu<sup>*</sup>, Yuyang Bai<sup>*</sup>, Yu Zhang
+  </div>
+  <div class="paper-venue">
+    WSDM 2026 (Short Paper, Under Review)
+  </div>
 </div>
 
-- [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://cares-ai.github.io/)
-  Peng Xia, Ze Chen, Juanxi Tian, **Yangrui Gong**, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
-  **NeurIPS 2024** (Datasets & Benchmarks Track)
+<div class="paperwithoutimage">
+  <div class="paper-title">
+    RAPS+: Improved Conformal Prediction with Empirical Distribution
+  </div>
+  <div class="paper-authors">
+    <b>Yangrui Gong</b>, Zhihang Ren, Yunhui Guo, David Whitney
+  </div>
+  <div class="paper-venue">
+    AAAI 2026 (Under Review)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACM MM 2024</div>
+      <img src='images/publication of MSA.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+      <div class="paper-title">
+        Masked Snake Attention for Fundus Image Restoration with Vessel Preservation
+      </div>
+      <div class="paper-authors">
+        Xiaohuan Ding, <b>Yangrui Gong</b>, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
+      </div>
+      <div class="paper-links">
+      <a href="https://dl.acm.org/doi/10.1145/3664647.3680722" target="_blank">📄 PDF</a>
+      </div>
+  </div>
+</div>
+
+<div class="paperwithoutimage">
+  <div class="paper-title">
+    CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models
+  </div>
+  <div class="paper-authors">
+    Peng Xia, Ze Chen, Juanxi Tian, <b>Yangrui Gong</b>, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
+  </div>
+  <div class="paper-venue">
+    NeurIPS 2024 (Datasets & Benchmarks Track)
+  </div>
+  <div class="paper-links">
+    <a href="https://arxiv.org/abs/2406.06007" target="_blank">📄 PDF</a> · 
+    <a href="https://cares-ai.github.io/" target="_blank">🌐 Project Page</a> · 
+    <a href="https://github.com/richard-peng-xia/CARES" target="_blank">💻 Code</a>
+  </div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.12* **Won the championship** in The 2nd Hubei Provincial Rugby Championship. 
