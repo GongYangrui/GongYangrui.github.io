@@ -39,6 +39,15 @@ Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- Synergizing Embedding and Generative Language Models for Zero-Shot Multi-Label Text Classification
+  **Yangrui Gong**, Hangxiao Zhu<sup>*</sup>, Yuyang Bai<sup>*</sup>, Yu Zhang
+  **WSDM 2026** (Short Paper)
+
+
+- RAPS+: Improved Conformal Prediction with Empirical Distribution
+  **Yangrui Gong**, Zhihang Ren, Yunhui Guo, David Whitney
+  **AAAI 2026** (Under Review)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/publication of MSA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +57,9 @@ Xiaohuan Ding, **Gong Yangrui**, Tianyi Shi, Zihang Huang, Gangwei Xu, Xin Yang
 </div>
 </div>
 
-- Peng Xia, Ze Chen, Juanxi Tian, **Yangrui Gong**, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao, [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://cares-ai.github.io/), in Proceeding of the Thirty-Eighth Conference on Neural Information Processing Systems Track on  Datasets & Benchmarks (**NeurIPS 2024**), Vancouver, Canada, Dec 2024.
+- [CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models](https://cares-ai.github.io/)
+  Peng Xia, Ze Chen, Juanxi Tian, **Yangrui Gong**, Ruibo Hou, Yue Xu, Zhenbang Wu, Zhiyuan Fan, Yiyang Zhou, Kangyu Zhu, Wenhao Zheng, Zhaoyang Wang, Xiao Wang, Xuchao Zhang, Chetan Bansal, Marc Niethammer, Junzhou Huang, Hongtu Zhu, Yun Li, Jimeng Sun, Zongyuan Ge, Gang Li, James Zou, Huaxiu Yao
+  **NeurIPS 2024** (Datasets & Benchmarks Track)
 
 # 🎖 Honors and Awards
 - *2024.12* **Won the championship** in The 2nd Hubei Provincial Rugby Championship. 
