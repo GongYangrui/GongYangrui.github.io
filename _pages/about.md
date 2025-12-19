@@ -47,7 +47,7 @@ Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
   <b>Yangrui Gong</b>, Hangxiao Zhu<sup>*</sup>, Yuyang Bai<sup>*</sup>, Yu Zhang
   </div>
   <div class="paper-venue">
-    WSDM 2026 (Short Paper, Under Review)
+    In Submission
   </div>
 </div>
 
@@ -59,7 +59,7 @@ Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
     <b>Yangrui Gong</b>, Zhihang Ren, Yunhui Guo, David Whitney
   </div>
   <div class="paper-venue">
-    AAAI 2026 (Under Review)
+    In Submission
   </div>
 </div>
 
