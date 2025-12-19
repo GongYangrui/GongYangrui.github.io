@@ -19,7 +19,7 @@ redirect_from:
 
 I am a student in <a href='https://english.hust.edu.cn/'>Huazhong University of Science and Technology</a>. I am broadly interested in Computer Vision, Natural Language Processing and Medical Image Processing.
 
-Here is my [CV.](/assets/files/Yangrui_Gong_Research.pdf)
+Here is my [CV.](/assets/files/Research_CV.pdf)
 
 
 # 🔥 News
